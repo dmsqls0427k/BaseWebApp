@@ -23,7 +23,7 @@ h4 {
 }
 
 .queen-of-computers {
-  width: 500px;
+  width: 400px;
   margin: 50px auto;
   border-radius: 50%;
   display: block;
@@ -31,6 +31,7 @@ h4 {
 
 .content {
   margin-bottom: 50px;
+  font-family: 'Courier New', monospace;
 }
 
 .code-container {
